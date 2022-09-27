@@ -1,17 +1,52 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "merxx",
+        "name": "Merxx",
+        "slug": "merxx",
+        "productCategory": "Merxx",
+        "localThumb": "/assets/images/hersteller/merxx.webp"
+    },
+    {
+        "key": "indoba",
+        "name": "Indoba",
+        "slug": "indoba",
+        "productCategory": "Indoba",
+        "localThumb": "/assets/images/hersteller/indoba.webp"
+    },
+    {
+        "key": "acamp",
+        "name": "Acamp",
+        "slug": "acamp",
+        "productCategory": "Acamp",
+        "localThumb": "/assets/images/hersteller/acamp.webp"
+    },
+    {
+        "key": "best freizeitmöbel",
+        "name": "Best Freizeitmöbel",
+        "slug": "best-freizeitmoebel",
+        "productCategory": "Best Freizeitmöbel",
+        "localThumb": "/assets/images/hersteller/best-freizeitmoebel.webp"
+    },
+    {
+        "key": "garden pleasure",
+        "name": "Garden Pleasure",
+        "slug": "garden-pleasure",
+        "productCategory": "Garden Pleasure",
+        "localThumb": "/assets/images/hersteller/garden-pleasure.webp"
+    },
+    {
+        "key": "mbm",
+        "name": "MBM",
+        "slug": "mbm",
+        "productCategory": "MBM",
+        "localThumb": "/assets/images/hersteller/mbm.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +56,276 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "blome",
+        "name": "Blome",
+        "slug": "blome",
+        "productCategory": "Blome",
+        "localThumb": "/assets/images/hersteller/blome.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "greemotion",
+        "name": "Greemotion",
+        "slug": "greemotion",
+        "productCategory": "Greemotion",
+        "localThumb": "/assets/images/hersteller/greemotion.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "andrewex",
+        "name": "Andrewex",
+        "slug": "andrewex",
+        "productCategory": "Andrewex",
+        "localThumb": "/assets/images/hersteller/andrewex.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "leco",
+        "name": "Leco",
+        "slug": "leco",
+        "productCategory": "Leco",
+        "localThumb": "/assets/images/hersteller/leco.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "skan holz",
+        "name": "Skan Holz",
+        "slug": "skan-holz",
+        "productCategory": "Skan Holz",
+        "localThumb": "/assets/images/hersteller/skan-holz.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "karibu",
+        "name": "Karibu",
+        "slug": "karibu",
+        "productCategory": "Karibu",
+        "localThumb": "/assets/images/hersteller/karibu.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "palmako",
+        "name": "Palmako",
+        "slug": "palmako",
+        "productCategory": "Palmako",
+        "localThumb": "/assets/images/hersteller/palmako.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "alpholz",
+        "name": "Alpholz",
+        "slug": "alpholz",
+        "productCategory": "Alpholz",
+        "localThumb": "/assets/images/hersteller/alpholz.webp"
+    },
+    {
+        "key": "noor",
+        "name": "Noor",
+        "slug": "noor",
+        "productCategory": "Noor",
+        "localThumb": "/assets/images/hersteller/noor.webp"
+    },
+    {
+        "key": "sun garden",
+        "name": "Sun Garden",
+        "slug": "sun-garden",
+        "productCategory": "Sun Garden",
+        "localThumb": "/assets/images/hersteller/sun-garden.webp"
+    },
+    {
+        "key": "gartenfreude",
+        "name": "Gartenfreude",
+        "slug": "gartenfreude",
+        "productCategory": "Gartenfreude",
+        "localThumb": "/assets/images/hersteller/gartenfreude.webp"
+    },
+    {
+        "key": "angerer freizeitmöbel",
+        "name": "Angerer Freizeitmöbel",
+        "slug": "angerer-freizeitmoebel",
+        "productCategory": "Angerer Freizeitmöbel",
+        "localThumb": "/assets/images/hersteller/angerer-freizeitmoebel.webp"
+    },
+    {
+        "key": "sieger",
+        "name": "Sieger",
+        "slug": "sieger",
+        "productCategory": "Sieger",
+        "localThumb": "/assets/images/hersteller/sieger.webp"
+    },
+    {
+        "key": "aerocover",
+        "name": "Aerocover",
+        "slug": "aerocover",
+        "productCategory": "Aerocover",
+        "localThumb": "/assets/images/hersteller/aerocover.webp"
+    },
+    {
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
+    },
+    {
+        "key": "allibert",
+        "name": "Allibert",
+        "slug": "allibert",
+        "productCategory": "Allibert",
+        "localThumb": "/assets/images/hersteller/allibert.webp"
+    },
+    {
+        "key": "progarden",
+        "name": "Progarden",
+        "slug": "progarden",
+        "productCategory": "Progarden",
+        "localThumb": "/assets/images/hersteller/progarden.webp"
+    },
+    {
+        "key": "madison",
+        "name": "Madison",
+        "slug": "madison",
+        "productCategory": "Madison",
+        "localThumb": "/assets/images/hersteller/madison.webp"
+    },
+    {
+        "key": "bizzotto",
+        "name": "Bizzotto",
+        "slug": "bizzotto",
+        "productCategory": "Bizzotto",
+        "localThumb": "/assets/images/hersteller/bizzotto.webp"
+    },
+    {
+        "key": "best of home",
+        "name": "best of home",
+        "slug": "best-of-home",
+        "productCategory": "best of home",
+        "localThumb": "/assets/images/hersteller/best-of-home.webp"
+    },
+    {
+        "key": "amazonas",
+        "name": "Amazonas",
+        "slug": "amazonas",
+        "productCategory": "Amazonas",
+        "localThumb": "/assets/images/hersteller/amazonas.webp"
+    },
+    {
+        "key": "gardamo",
+        "name": "Gardamo",
+        "slug": "gardamo",
+        "productCategory": "Gardamo",
+        "localThumb": "/assets/images/hersteller/gardamo.webp"
+    },
+    {
+        "key": "veba",
+        "name": "VEBA",
+        "slug": "veba",
+        "productCategory": "VEBA",
+        "localThumb": "/assets/images/hersteller/veba.webp"
+    },
+    {
+        "key": "perel",
+        "name": "Perel",
+        "slug": "perel",
+        "productCategory": "Perel",
+        "localThumb": "/assets/images/hersteller/perel.webp"
+    },
+    {
+        "key": "bucin mob",
+        "name": "BUCIN MOB",
+        "slug": "bucin-mob",
+        "productCategory": "BUCIN MOB",
+        "localThumb": "/assets/images/hersteller/bucin-mob.webp"
+    },
+    {
+        "key": "beo",
+        "name": "Beo",
+        "slug": "beo",
+        "productCategory": "Beo",
+        "localThumb": "/assets/images/hersteller/beo.webp"
+    },
+    {
+        "key": "lafuma",
+        "name": "Lafuma",
+        "slug": "lafuma",
+        "productCategory": "Lafuma",
+        "localThumb": "/assets/images/hersteller/lafuma.webp"
+    },
+    {
+        "key": "doppler",
+        "name": "Doppler",
+        "slug": "doppler",
+        "productCategory": "Doppler",
+        "localThumb": "/assets/images/hersteller/doppler.webp"
+    },
+    {
+        "key": "schneider schirme",
+        "name": "Schneider Schirme",
+        "slug": "schneider-schirme",
+        "productCategory": "Schneider Schirme",
+        "localThumb": "/assets/images/hersteller/schneider-schirme.webp"
+    },
+    {
+        "key": "mfg",
+        "name": "Mfg",
+        "slug": "mfg",
+        "productCategory": "Mfg",
+        "localThumb": "/assets/images/hersteller/mfg.webp"
+    },
+    {
+        "key": "farmet new",
+        "name": "Farmet New",
+        "slug": "farmet-new",
+        "productCategory": "Farmet New",
+        "localThumb": "/assets/images/hersteller/farmet-new.webp"
+    },
+    {
+        "key": "mwh",
+        "name": "MWH",
+        "slug": "mwh",
+        "productCategory": "MWH",
+        "localThumb": "/assets/images/hersteller/mwh.webp"
+    },
+    {
+        "key": "keter",
+        "name": "Keter",
+        "slug": "keter",
+        "productCategory": "Keter",
+        "localThumb": "/assets/images/hersteller/keter.webp"
+    },
+    {
+        "key": "jardin",
+        "name": "Jardin",
+        "slug": "jardin",
+        "productCategory": "Jardin",
+        "localThumb": "/assets/images/hersteller/jardin.webp"
+    },
+    {
+        "key": "trendy by devries",
+        "name": "Trendy by Devries",
+        "slug": "trendy-by-devries",
+        "productCategory": "Trendy by Devries",
+        "localThumb": "/assets/images/hersteller/trendy-by-devries.webp"
+    },
+    {
+        "key": "eda",
+        "name": "EDA",
+        "slug": "eda",
+        "productCategory": "EDA",
+        "localThumb": "/assets/images/hersteller/eda.webp"
+    },
+    {
+        "key": "westmann",
+        "name": "Westmann",
+        "slug": "westmann",
+        "productCategory": "Westmann",
+        "localThumb": "/assets/images/hersteller/westmann.webp"
+    },
+    {
+        "key": "obi outdoor living",
+        "name": "OBI Outdoor Living",
+        "slug": "obi-outdoor-living",
+        "productCategory": "OBI Outdoor Living",
+        "localThumb": "/assets/images/hersteller/obi-outdoor-living.webp"
     }
 ]

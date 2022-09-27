@@ -1,107 +1,107 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "gartentische",
+        "name": "Gartentische",
+        "slug": "gartentische",
+        "productCategory": "Gartentische",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "sonnenliegen",
+        "name": "Sonnenliegen",
+        "slug": "sonnenliegen",
+        "productCategory": "Sonnenliegen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "gartenbänke",
+        "name": "Gartenbänke",
+        "slug": "gartenbanke",
+        "productCategory": "Gartenbänke",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "lounge-gartenmöbel",
+        "name": "Lounge-Gartenmöbel",
+        "slug": "lounge-gartenmobel",
+        "productCategory": "Lounge-Gartenmöbel",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "gartenstühle",
+        "name": "Gartenstühle",
+        "slug": "gartenstuhle",
+        "productCategory": "Gartenstühle",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "gartenlauben & pavillons",
+        "name": "Gartenlauben & Pavillons",
+        "slug": "gartenlauben-pavillons",
+        "productCategory": "Gartenlauben & Pavillons",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "gartenlauben & holz-pavillons",
+        "name": "Gartenlauben & Holz-Pavillons",
+        "slug": "gartenlauben-holz-pavillons",
+        "productCategory": "Gartenlauben & Holz-Pavillons",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "balkonmöbel",
+        "name": "Balkonmöbel",
+        "slug": "balkonmobel",
+        "productCategory": "Balkonmöbel",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "weitere gartenmöbel",
+        "name": "Weitere Gartenmöbel",
+        "slug": "weitere-gartenmobel",
+        "productCategory": "Weitere Gartenmöbel",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "hollywoodschaukeln",
+        "name": "Hollywoodschaukeln",
+        "slug": "hollywoodschaukeln",
+        "productCategory": "Hollywoodschaukeln",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "sitzkissen & gartenstuhlauflagen",
+        "name": "Sitzkissen & Gartenstuhlauflagen",
+        "slug": "sitzkissen-gartenstuhlauflagen",
+        "productCategory": "Sitzkissen & Gartenstuhlauflagen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "schutzhüllen",
+        "name": "Schutzhüllen",
+        "slug": "schutzhullen",
+        "productCategory": "Schutzhüllen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "gartenmöbel-sets",
+        "name": "Gartenmöbel-Sets",
+        "slug": "gartenmobel-sets",
+        "productCategory": "Gartenmöbel-Sets",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "bierzeltgarnituren",
+        "name": "Bierzeltgarnituren",
+        "slug": "bierzeltgarnituren",
+        "productCategory": "Bierzeltgarnituren",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "gartenmöbel für kinder",
+        "name": "Gartenmöbel für Kinder",
+        "slug": "gartenmobel-fur-kinder",
+        "productCategory": "Gartenmöbel für Kinder",
         "subCategories": []
     }
 ]
