@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/bucin-mob", {data:[{_img:{}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/garden-pleasure", {data:[{_img:{}}],fetch:{},mutations:void 0});
