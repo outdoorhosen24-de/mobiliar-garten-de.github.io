@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/jardin", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jardin-klappsessel-aruba-weisz-61-cm-x-72-cm-x-110-cm-jardin-2942373-1.jpg":"\u002Fassets\u002Fimages\u002Fjardin-klappsessel-aruba-weisz-61-cm-x-72-cm-x-110-cm-jardin-2942373-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/andrewex", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/andrewex-picknick-gartentisch-holz-braun-712-cm-x-1305-cm-x-148-cm-andrewex-5545397-1.jpg":"\u002Fassets\u002Fimages\u002Fandrewex-picknick-gartentisch-holz-braun-712-cm-x-1305-cm-x-148-cm-andrewex-5545397-1.webp"}}],fetch:{},mutations:void 0});

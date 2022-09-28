@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/alpholz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/5-eck-gartenlaube-maik-28-natur-325-cm-x-325-cm-impraegniert-alpholz-8326712-1.jpg":"\u002Fassets\u002Fimages\u002F5-eck-gartenlaube-maik-28-natur-325-cm-x-325-cm-impraegniert-alpholz-8326712-1.webp"}}],fetch:{},mutations:void 0});
