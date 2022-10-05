@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "mobiliar-garten.de",
+    "hostname": "https://www.mobiliar-garten.de/",
+    "email": "mobiliar-garten.desurrealnetworks.io",
+    "organization": "mobiliar-garten.de",
+    "logoText": "Mobiliar-garten.de",
+    "title": "Gartenm\u00f6bel",
+    "subline": "Der Online Shop f\u00fcr Gartenm\u00f6bel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3775889",
+        "9781618",
+        "7199425",
+        "2091064",
+        "2892172",
+        "2908366"
+    ],
+    "winnerProducts": [
+        "2914828",
+        "4154357",
+        "5926431"
+    ],
+    "featuredCategories": [
+        "Gartentische",
+        "Weitere Gartenm\u00f6bel",
+        "Hollywoodschaukeln",
+        "Gartenlauben & Holz-Pavillons",
+        "Balkonm\u00f6bel",
+        "Hollywoodschaukeln"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenm\u00f6bel",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Gartenm\u00f6bel sind aus hochwertigem Holz gefertigt und sehr stabil. Die Tische und St\u00fchle sind sehr bequem und passen perfekt in jeden Garten. Die Gartenm\u00f6bel sind sehr pflegeleicht und sehen immer wie neu aus.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gartenm\u00f6bel - die beste Auswahl in der Stadt!",
+            "metaDescription": "Gartenm\u00f6bel f\u00fcr jeden Geschmack und jeden Geldbeutel - die beste Auswahl im Netz!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gartenm\u00f6bel f\u00fcr jeden Geschmack",
+                    "text": "Gartenm\u00f6bel sind ein wesentlicher Bestandteil jedes Gartens. Sie k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenm\u00f6bel ist wichtig, damit Sie sich in Ihrem Garten wohlf\u00fchlen.\n\nDie ersten Gartenm\u00f6bel wurden in den alten \u00e4gyptischen G\u00e4rten entdeckt. Damals wurden Holzst\u00fchle und Tische verwendet. In den r\u00f6mischen G\u00e4rten wurden Steinm\u00f6bel beliebt. Im Mittelalter wurden Gartenm\u00f6bel aus Holz gebaut.\n\nHeutzutage gibt es eine Vielzahl von Gartenm\u00f6beln auf dem Markt. Sie k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenm\u00f6bel ist wichtig, damit Sie sich in Ihrem Garten wohlf\u00fchlen.\n\nGartenm\u00f6bel aus Holz sind sehr beliebt, da sie nat\u00fcrlich aussehen und langlebig sind. Holzm\u00f6bel k\u00f6nnen jedoch auch sehr teuer sein. Metallm\u00f6bel sind eine gute Alternative zu Holzm\u00f6beln. Sie sind langlebig und k\u00f6nnen leicht repariert werden. Kunststoffm\u00f6bel sind eine g\u00fcnstige Alternative zu anderen Arten von Gartenm\u00f6beln. Sie sind jedoch nicht so langlebig wie Holz- oder Metallm\u00f6bel.\n\nDie Auswahl der richtigen Gartenm\u00f6bel ist wichtig, damit Sie sich in Ihrem Garten wohlf\u00fchlen. Bevor Sie Gartenm\u00f6bel kaufen, sollten Sie sich \u00fcberlegen, welche Art von M"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenm\u00f6bel Shop",
+            "metaDescription": "Gartenm\u00f6bel Shop - Hier findest du alles f\u00fcr deinen Garten!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenm\u00f6bel-Hersteller: Die besten Marken f\u00fcr Ihren Garten",
+            "metaDescription": "Gartenm\u00f6bel-Hersteller: Finden Sie hier die besten Gartenm\u00f6bel-Hersteller und -Anbieter. Vergleichen Sie die Angebote und w\u00e4hlen Sie Ihren Favoriten!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Gartenm\u00f6bel: $PRODUKT f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Erg\u00e4nzung f\u00fcr Ihren $KATEGORIE. W\u00e4hlen Sie aus einer Vielzahl an Designs und finden Sie die perfekte Passform f\u00fcr Ihren Garten.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Gartenm\u00f6bel: $KATEGORIE f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "Gartenm\u00f6bel f\u00fcr jeden Geschmack: Finde die passenden $KATEGORIE f\u00fcr Deinen Garten! Ob klassisch oder modern, bei uns wirst Du f\u00fcndig.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Gartenm\u00f6bel: Hier finden Sie alles f\u00fcr Ihren Garten - von der Sitzgarnitur \u00fcber den Sonnenschirm bis hin zum Grill.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gartenm\u00f6bel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gartenm\u00f6bel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gartenm\u00f6bel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
