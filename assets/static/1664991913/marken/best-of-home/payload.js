@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/best-of-home", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/best-of-home-haengesessel-nizza-creme-best-of-home-5387311-1.jpg":"\u002Fassets\u002Fimages\u002Fbest-of-home-haengesessel-nizza-creme-best-of-home-5387311-1.webp"}}],fetch:{},mutations:void 0});

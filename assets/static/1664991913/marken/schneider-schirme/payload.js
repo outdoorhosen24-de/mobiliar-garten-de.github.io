@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/schneider-schirme", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/schneider-schutzhuelle-fuer-sonnenschirme-bis-o-200-cm-schneider-schirme-5970975-1.jpg":"\u002Fassets\u002Fimages\u002Fschneider-schutzhuelle-fuer-sonnenschirme-bis-o-200-cm-schneider-schirme-5970975-1.webp"}}],fetch:{},mutations:void 0});

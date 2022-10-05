@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/obi-outdoor-living", {data:[{_img:{}}],fetch:{},mutations:void 0});

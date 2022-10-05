@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/eda", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/eda-kuehlbox-promotion-blau-gruen-24-liter-265x355x40-cm-eda-3159977-1.jpg":"\u002Fassets\u002Fimages\u002Feda-kuehlbox-promotion-blau-gruen-24-liter-265x355x40-cm-eda-3159977-1.webp"}}],fetch:{},mutations:void 0});
