@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "mobiliar-garten.de",
     "hostname": "https://www.mobiliar-garten.de/",
     "email": "mobiliar-garten.desurrealnetworks.io",
     "organization": "mobiliar-garten.de",
     "logoText": "Mobiliar-garten.de",
-    "title": "Gartenm\u00f6bel",
-    "subline": "Der Online Shop f\u00fcr Gartenm\u00f6bel",
+    "title": "Gartenmöbel",
+    "subline": "Der Online Shop für Gartenmöbel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,10 +29,10 @@
     ],
     "featuredCategories": [
         "Gartentische",
-        "Weitere Gartenm\u00f6bel",
+        "Weitere Gartenmöbel",
         "Hollywoodschaukeln",
         "Gartenlauben & Holz-Pavillons",
-        "Balkonm\u00f6bel",
+        "Balkonmöbel",
         "Hollywoodschaukeln"
     ],
     "socialMediaAccounts": [],
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Gartenm\u00f6bel",
-        "featureText": "Die Gartenm\u00f6bel sind aus hochwertigem Holz gefertigt und sehr stabil. Die Tische und St\u00fchle sind sehr bequem und passen perfekt in jeden Garten. Die Gartenm\u00f6bel sind sehr pflegeleicht und sehen immer wie neu aus.",
+        "mainKeyword": "Gartenmöbel",
+        "featureText": "Die Gartenmöbel sind aus hochwertigem Holz gefertigt und sehr stabil. Die Tische und Stühle sind sehr bequem und passen perfekt in jeden Garten. Die Gartenmöbel sind sehr pflegeleicht und sehen immer wie neu aus.",
         "index": {
-            "title": "Gartenm\u00f6bel - die beste Auswahl in der Stadt!",
-            "metaDescription": "Gartenm\u00f6bel f\u00fcr jeden Geschmack und jeden Geldbeutel - die beste Auswahl im Netz!",
+            "title": "Gartenmöbel - die beste Auswahl in der Stadt!",
+            "metaDescription": "Gartenmöbel für jeden Geschmack und jeden Geldbeutel - die beste Auswahl im Netz!",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Gartenm\u00f6bel f\u00fcr jeden Geschmack",
-                    "text": "Gartenm\u00f6bel sind ein wesentlicher Bestandteil jedes Gartens. Sie k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenm\u00f6bel ist wichtig, damit Sie sich in Ihrem Garten wohlf\u00fchlen.\n\nDie ersten Gartenm\u00f6bel wurden in den alten \u00e4gyptischen G\u00e4rten entdeckt. Damals wurden Holzst\u00fchle und Tische verwendet. In den r\u00f6mischen G\u00e4rten wurden Steinm\u00f6bel beliebt. Im Mittelalter wurden Gartenm\u00f6bel aus Holz gebaut.\n\nHeutzutage gibt es eine Vielzahl von Gartenm\u00f6beln auf dem Markt. Sie k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenm\u00f6bel ist wichtig, damit Sie sich in Ihrem Garten wohlf\u00fchlen.\n\nGartenm\u00f6bel aus Holz sind sehr beliebt, da sie nat\u00fcrlich aussehen und langlebig sind. Holzm\u00f6bel k\u00f6nnen jedoch auch sehr teuer sein. Metallm\u00f6bel sind eine gute Alternative zu Holzm\u00f6beln. Sie sind langlebig und k\u00f6nnen leicht repariert werden. Kunststoffm\u00f6bel sind eine g\u00fcnstige Alternative zu anderen Arten von Gartenm\u00f6beln. Sie sind jedoch nicht so langlebig wie Holz- oder Metallm\u00f6bel.\n\nDie Auswahl der richtigen Gartenm\u00f6bel ist wichtig, damit Sie sich in Ihrem Garten wohlf\u00fchlen. Bevor Sie Gartenm\u00f6bel kaufen, sollten Sie sich \u00fcberlegen, welche Art von M"
+                    "title": "Gartenmöbel für jeden Geschmack",
+                    "text": "Gartenmöbel sind ein wesentlicher Bestandteil jedes Gartens. Sie können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen.\n\nDie ersten Gartenmöbel wurden in den alten ägyptischen Gärten entdeckt. Damals wurden Holzstühle und Tische verwendet. In den römischen Gärten wurden Steinmöbel beliebt. Im Mittelalter wurden Gartenmöbel aus Holz gebaut.\n\nHeutzutage gibt es eine Vielzahl von Gartenmöbeln auf dem Markt. Sie können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen.\n\nGartenmöbel aus Holz sind sehr beliebt, da sie natürlich aussehen und langlebig sind. Holzmöbel können jedoch auch sehr teuer sein. Metallmöbel sind eine gute Alternative zu Holzmöbeln. Sie sind langlebig und können leicht repariert werden. Kunststoffmöbel sind eine günstige Alternative zu anderen Arten von Gartenmöbeln. Sie sind jedoch nicht so langlebig wie Holz- oder Metallmöbel.\n\nDie Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen. Bevor Sie Gartenmöbel kaufen, sollten Sie sich überlegen, welche Art von M"
                 }
             ]
         },
         "shop": {
-            "title": "Gartenm\u00f6bel Shop",
-            "metaDescription": "Gartenm\u00f6bel Shop - Hier findest du alles f\u00fcr deinen Garten!",
+            "title": "Gartenmöbel Shop",
+            "metaDescription": "Gartenmöbel Shop - Hier findest du alles für deinen Garten!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartenm\u00f6bel-Hersteller: Die besten Marken f\u00fcr Ihren Garten",
-            "metaDescription": "Gartenm\u00f6bel-Hersteller: Finden Sie hier die besten Gartenm\u00f6bel-Hersteller und -Anbieter. Vergleichen Sie die Angebote und w\u00e4hlen Sie Ihren Favoriten!",
+            "title": "Gartenmöbel-Hersteller: Die besten Marken für Ihren Garten",
+            "metaDescription": "Gartenmöbel-Hersteller: Finden Sie hier die besten Gartenmöbel-Hersteller und -Anbieter. Vergleichen Sie die Angebote und wählen Sie Ihren Favoriten!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Gartenm\u00f6bel: $PRODUKT f\u00fcr Ihren Garten",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Erg\u00e4nzung f\u00fcr Ihren $KATEGORIE. W\u00e4hlen Sie aus einer Vielzahl an Designs und finden Sie die perfekte Passform f\u00fcr Ihren Garten.",
+        "defaultTitle": "Gartenmöbel: $PRODUKT für Ihren Garten",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihren $KATEGORIE. Wählen Sie aus einer Vielzahl an Designs und finden Sie die perfekte Passform für Ihren Garten.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Gartenm\u00f6bel: $KATEGORIE f\u00fcr Ihren Garten",
-        "defaultMetaDescription": "Gartenm\u00f6bel f\u00fcr jeden Geschmack: Finde die passenden $KATEGORIE f\u00fcr Deinen Garten! Ob klassisch oder modern, bei uns wirst Du f\u00fcndig.",
+        "defaultTitle": "Gartenmöbel: $KATEGORIE für Ihren Garten",
+        "defaultMetaDescription": "Gartenmöbel für jeden Geschmack: Finde die passenden $KATEGORIE für Deinen Garten! Ob klassisch oder modern, bei uns wirst Du fündig.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Gartenm\u00f6bel: Hier finden Sie alles f\u00fcr Ihren Garten - von der Sitzgarnitur \u00fcber den Sonnenschirm bis hin zum Grill.",
+        "defaultMetaDescription": "$HERSTELLER Gartenmöbel: Hier finden Sie alles für Ihren Garten - von der Sitzgarnitur über den Sonnenschirm bis hin zum Grill.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Gartenm\u00f6bel",
+            "linkTitle": "Gartenmöbel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Gartenm\u00f6bel Shop",
+            "linkTitle": "Gartenmöbel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Gartenm\u00f6bel Marken",
+            "linkTitle": "Gartenmöbel Marken",
             "publish": true
         },
         {
