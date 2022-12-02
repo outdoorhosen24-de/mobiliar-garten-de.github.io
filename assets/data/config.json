@@ -51,12 +51,15 @@
             "title": "Gartenmöbel - die beste Auswahl in der Stadt!",
             "metaDescription": "Gartenmöbel für jeden Geschmack und jeden Geldbeutel - die beste Auswahl im Netz!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gartenmöbel für jeden Geschmack",
-                    "text": "Gartenmöbel sind ein wesentlicher Bestandteil jedes Gartens. Sie können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen.\n\nDie ersten Gartenmöbel wurden in den alten ägyptischen Gärten entdeckt. Damals wurden Holzstühle und Tische verwendet. In den römischen Gärten wurden Steinmöbel beliebt. Im Mittelalter wurden Gartenmöbel aus Holz gebaut.\n\nHeutzutage gibt es eine Vielzahl von Gartenmöbeln auf dem Markt. Sie können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen.\n\nGartenmöbel aus Holz sind sehr beliebt, da sie natürlich aussehen und langlebig sind. Holzmöbel können jedoch auch sehr teuer sein. Metallmöbel sind eine gute Alternative zu Holzmöbeln. Sie sind langlebig und können leicht repariert werden. Kunststoffmöbel sind eine günstige Alternative zu anderen Arten von Gartenmöbeln. Sie sind jedoch nicht so langlebig wie Holz- oder Metallmöbel.\n\nDie Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen. Bevor Sie Gartenmöbel kaufen, sollten Sie sich überlegen, welche Art von M"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gartenmöbel für jeden Geschmack",
+                        "text": "Gartenmöbel sind ein wesentlicher Bestandteil jedes Gartens. Sie können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen.\n\nDie ersten Gartenmöbel wurden in den alten ägyptischen Gärten entdeckt. Damals wurden Holzstühle und Tische verwendet. In den römischen Gärten wurden Steinmöbel beliebt. Im Mittelalter wurden Gartenmöbel aus Holz gebaut.\n\nHeutzutage gibt es eine Vielzahl von Gartenmöbeln auf dem Markt. Sie können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Die Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen.\n\nGartenmöbel aus Holz sind sehr beliebt, da sie natürlich aussehen und langlebig sind. Holzmöbel können jedoch auch sehr teuer sein. Metallmöbel sind eine gute Alternative zu Holzmöbeln. Sie sind langlebig und können leicht repariert werden. Kunststoffmöbel sind eine günstige Alternative zu anderen Arten von Gartenmöbeln. Sie sind jedoch nicht so langlebig wie Holz- oder Metallmöbel.\n\nDie Auswahl der richtigen Gartenmöbel ist wichtig, damit Sie sich in Ihrem Garten wohlfühlen. Bevor Sie Gartenmöbel kaufen, sollten Sie sich überlegen, welche Art von M"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gartenmöbel Shop",
