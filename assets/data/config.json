@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "mobiliar-garten.de",
     "hostname": "https://www.mobiliar-garten.de/",
     "email": "mobiliar-garten.de@surrealnetworks.io",
     "organization": "mobiliar-garten.de",
     "logoText": "Mobiliar-garten.de",
-    "title": "Gartenmöbel",
-    "subline": "Der Online Shop für Gartenmöbel",
+    "title": "Garten- und Balkonmöbel",
+    "subline": "Schaffen Sie Wohnlichkeit in Ihrem Außenbereich!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenmöbel",
-        "featureText": "Die Gartenmöbel sind aus hochwertigem Holz gefertigt und sehr stabil. Die Tische und Stühle sind sehr bequem und passen perfekt in jeden Garten. Die Gartenmöbel sind sehr pflegeleicht und sehen immer wie neu aus.",
+        "featureText": "Schön, dass Sie unseren Online Shop gefunden haben! Hier sind Sie genau richtig, wenn Sie sich die gemütliche Atmosphäre in Ihren Garten oder auf Ihren Balkon holen möchten. Wir bieten Ihnen alles, um das in die Tat umzusetzen: Gartenstühle, Gartentische, Gartenliegen, Hollywoodschaukeln, Pavillons und passendes Zubehör wie Sitzkissen, Schutzhüllen uvm. Unser Online Shop überzeugt mit Produktvielfalt, Qualität, Hochwertigkeit und Langlebigkeit. Finden Sie die passenden Produkte jetzt ganz einfach online bei uns.",
         "index": {
-            "title": "Gartenmöbel - die beste Auswahl in der Stadt!",
-            "metaDescription": "Gartenmöbel für jeden Geschmack und jeden Geldbeutel - die beste Auswahl im Netz!",
+            "title": "Garten- und Balkonmöbel | Hier günstig online bestellen",
+            "metaDescription": "Garten- und Balkonmöbel für jeden Geschmack. Entdecken Sie eine große Auswahl unterschiedlicher Produkte in bester Qualität und zu günstigen Preisen! ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gartenmöbel Shop",
-            "metaDescription": "Gartenmöbel Shop - Hier findest du alles für deinen Garten!",
+            "title": "Ihr Shop für die perfekten Garten- und Balkonmöbel",
+            "metaDescription": "Bei uns die passenden Möbel für Ihren Außenbereich ganz einfach und bequem online bestellen und direkt nach Hause liefern lassen!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartenmöbel-Hersteller: Die besten Marken für Ihren Garten",
-            "metaDescription": "Gartenmöbel-Hersteller: Finden Sie hier die besten Gartenmöbel-Hersteller und -Anbieter. Vergleichen Sie die Angebote und wählen Sie Ihren Favoriten!",
+            "title": "Garten-und Balkonmöbel | Die besten Marken für Sie!",
+            "metaDescription": "Unser Online Shop bieten Ihnen eine tolle Auwahl an erstklassigen Markenanbietern. Acamp • Aerocover • Beo • Garden Pleasure • Madison • Sieger uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Gartenmöbel: $PRODUKT für Ihren Garten",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihren $KATEGORIE. Wählen Sie aus einer Vielzahl an Designs und finden Sie die perfekte Passform für Ihren Garten.",
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "Das perfekte Produkt: $PRODUKT vom top Anbieter $HERSTELLER. Entdecken Sie auch weitere tolle Produkte in unserer Kategorie $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Gartenmöbel: $KATEGORIE für Ihren Garten",
-        "defaultMetaDescription": "Gartenmöbel für jeden Geschmack: Finde die passenden $KATEGORIE für Deinen Garten! Ob klassisch oder modern, bei uns wirst Du fündig.",
+        "defaultTitle": "$KATEGORIE: für Ihren Außenbereich das passende Produkt!",
+        "defaultMetaDescription": "Finde Sie passendes Mobiliar und Zubehör z.B. in unserer Kategorie $KATEGORIE! Außenmöbel für jeden Geschmack und in allen Preisklassen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Gartenmöbel: Hier finden Sie alles für Ihren Garten - von der Sitzgarnitur über den Sonnenschirm bis hin zum Grill.",
+        "defaultTitle": "$HERSTELLER - Qualität online kaufen",
+        "defaultMetaDescription": "Garten- und Balkonmöbel & Zubehör z.B. von $HERSTELLER : Hier finden Sie alles für Ihren Außenbereich. Unsere Marken überzeugen allesamt mit Top Qualität!",
         "defaultRobots": "index, follow",
         "brands": [
             {
