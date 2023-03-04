@@ -16,21 +16,21 @@
     {
         "key": "gartenbänke",
         "name": "Gartenbänke",
-        "slug": "gartenbanke",
+        "slug": "gartenbaenke",
         "productCategory": "Gartenbänke",
         "subCategories": []
     },
     {
         "key": "lounge-gartenmöbel",
         "name": "Lounge-Gartenmöbel",
-        "slug": "lounge-gartenmobel",
+        "slug": "lounge-gartenmoebel",
         "productCategory": "Lounge-Gartenmöbel",
         "subCategories": []
     },
     {
         "key": "gartenstühle",
         "name": "Gartenstühle",
-        "slug": "gartenstuhle",
+        "slug": "gartenstuehle",
         "productCategory": "Gartenstühle",
         "subCategories": []
     },
@@ -51,14 +51,14 @@
     {
         "key": "balkonmöbel",
         "name": "Balkonmöbel",
-        "slug": "balkonmobel",
+        "slug": "balkonmoebel",
         "productCategory": "Balkonmöbel",
         "subCategories": []
     },
     {
         "key": "weitere gartenmöbel",
         "name": "Weitere Gartenmöbel",
-        "slug": "weitere-gartenmobel",
+        "slug": "weitere-gartenmoebel",
         "productCategory": "Weitere Gartenmöbel",
         "subCategories": []
     },
@@ -79,14 +79,14 @@
     {
         "key": "schutzhüllen",
         "name": "Schutzhüllen",
-        "slug": "schutzhullen",
+        "slug": "schutzhuellen",
         "productCategory": "Schutzhüllen",
         "subCategories": []
     },
     {
         "key": "gartenmöbel-sets",
         "name": "Gartenmöbel-Sets",
-        "slug": "gartenmobel-sets",
+        "slug": "gartenmoebel-sets",
         "productCategory": "Gartenmöbel-Sets",
         "subCategories": []
     },
@@ -100,7 +100,7 @@
     {
         "key": "gartenmöbel für kinder",
         "name": "Gartenmöbel für Kinder",
-        "slug": "gartenmobel-fur-kinder",
+        "slug": "gartenmoebel-fuer-kinder",
         "productCategory": "Gartenmöbel für Kinder",
         "subCategories": []
     }
