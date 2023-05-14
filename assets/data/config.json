@@ -1,260 +1,267 @@
 {
-  "configIsReady": true,
-  "domain": "mobiliar-garten.de",
-  "hostname": "https://www.mobiliar-garten.de/",
-  "email": "mobiliar-garten.de@surrealnetworks.io",
-  "organization": "mobiliar-garten.de",
-  "logoText": "Mobiliar-garten.de",
-  "title": "Garten- und Balkonmöbel",
-  "subline": "Schaffen Sie Wohnlichkeit in Ihrem Außenbereich!",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "3775889",
-    "9781618",
-    "7199425",
-    "2091064",
-    "2892172",
-    "2908366"
-  ],
-  "winnerProducts": [
-    "2914828",
-    "4154357",
-    "5926431"
-  ],
-  "featuredCategories": [
-    "Gartentische",
-    "Weitere Gartenmöbel",
-    "Hollywoodschaukeln",
-    "Gartenlauben & Holz-Pavillons",
-    "Balkonmöbel",
-    "Hollywoodschaukeln"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Gartenmöbel",
-    "featureText": "Schön, dass Sie unseren Online Shop gefunden haben! Hier sind Sie genau richtig, wenn Sie sich die gemütliche Atmosphäre in Ihren Garten oder auf Ihren Balkon holen möchten. Wir bieten Ihnen alles, um das in die Tat umzusetzen: Gartenstühle, Gartentische, Gartenliegen, Hollywoodschaukeln, Pavillons und passendes Zubehör wie Sitzkissen, Schutzhüllen uvm. Unser Online Shop überzeugt mit Produktvielfalt, Qualität, Hochwertigkeit und Langlebigkeit. Finden Sie die passenden Produkte jetzt ganz einfach online bei uns.",
-    "index": {
-      "title": "Garten- und Balkonmöbel | Hier günstig online bestellen",
-      "metaDescription": "Garten- und Balkonmöbel für jeden Geschmack. Entdecken Sie eine große Auswahl unterschiedlicher Produkte in bester Qualität und zu günstigen Preisen! ",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Mobiliar-Garten - Ihrem Online-Shop für Gartenmöbel!",
-            "text": "Herzlich willkommen bei Mobiliar-Garten, Ihrem Online-Shop für hochwertige Gartenmöbel. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihren Garten in eine Wohlfühloase verwandeln werden. Ob Sie auf der Suche nach bequemen Sonnenliegen, praktischen Gartentischen, gemütlichen Gartenbänken oder stylischen Lounge-Gartenmöbeln sind, bei uns werden Sie fündig.Neben den Klassikern wie Gartenstühlen und Hollywoodschaukeln bieten wir Ihnen auch besondere Gartenlauben und Pavillons, die einen besonderen Akzent in Ihrem Garten setzen werden. Unsere Balkonmöbel sind die perfekte Wahl für alle, die ihren Balkon oder ihre Terrasse mit stylischen Möbeln einrichten möchten.Wir legen großen Wert auf Qualität und Funktionalität, deshalb finden Sie bei uns nur Produkte von namhaften Herstellern. Unsere Gartenmöbel-Sets und Bierzeltgarnituren sind die perfekte Wahl für alle, die auf der Suche nach einer kompletten Einrichtung für ihren Garten sind.Wir freuen uns, dass Sie uns gefunden haben und hoffen, dass Sie bei uns das finden, wonach Sie suchen. Stöbern Sie durch unser Sortiment und lassen Sie sich von unseren Produkten inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-          },
-          {
-            "title": "Gartentische",
-            "text": "Entdecken Sie unsere hochwertigen <a href=\"/kategorie/gartentische/\" title=\"Gartentische\">Gartentische</a> für Ihren Outdoorbereich. Ob rund, rechteckig oder oval, wir haben für jeden Bedarf das passende Modell. Unsere Tische sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihrem neuen Gartentisch haben. Kombinieren Sie ihn mit unseren bequemen Gartenstühlen und genießen Sie Ihre Mahlzeiten im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihren neuen Gartentisch."
-          },
-          {
-            "title": "Sonnenliegen",
-            "text": "Erholen Sie sich in vollen Zügen auf unseren bequemen <a href=\"/kategorie/sonnenliegen/\" title=\"Sonnenliegen\">Sonnenliegen</a>. Ob alleine oder zu zweit, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Sonnenliegen sind aus robusten Materialien gefertigt und verfügen über bequeme Polsterungen für maximalen Komfort. Stellen Sie sich Ihre persönliche Oase im Garten zusammen und genießen Sie die Sonne in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Sonnenliege."
-          },
-          {
-            "title": "Gartenbänke",
-            "text": "Sitzen Sie bequem auf unseren <a href=\"/kategorie/gartenbaenke/\" title=\"Gartenbänke\">Gartenbänke</a>n und genießen Sie die Natur. Ob alleine oder zu zweit, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenbänke sind aus robusten Materialien gefertigt und verfügen über bequeme Sitzflächen für maximalen Komfort. Kombinieren Sie Ihre neue Gartenbank mit einem passenden Tisch und genießen Sie gemeinsame Mahlzeiten im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Gartenbank."
-          },
-          {
-            "title": "Lounge-Gartenmöbel",
-            "text": "Entdecken Sie unsere hochwertigen <a href=\"/kategorie/lounge-gartenmoebel/\" title=\"Lounge-Gartenmöbel\">Lounge-Gartenmöbel</a> für Ihren Outdoorbereich. Ob Sofa, Sessel oder Ottomane, wir haben für jeden Bedarf das passende Modell. Unsere Lounge-Gartenmöbel sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihrem neuen Outdoor-Wohnzimmer haben. Kombinieren Sie Ihre neuen Lounge-Möbel mit einem passenden Tisch und genießen Sie gemütliche Abende im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Lounge-Gartenmöbel."
-          },
-          {
-            "title": "Gartenstühle",
-            "text": "Sitzen Sie bequem auf unseren <a href=\"/kategorie/gartenstuehle/\" title=\"Gartenstühle\">Gartenstühle</a>n und genießen Sie die Natur. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenstühle sind aus robusten Materialien gefertigt und verfügen über bequeme Sitzflächen für maximalen Komfort. Kombinieren Sie Ihre neuen Gartenstühle mit einem passenden Tisch und genießen Sie gemeinsame Mahlzeiten im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Gartenstühle."
-          },
-          {
-            "title": "Gartenlauben & Pavillons",
-            "text": "Schaffen Sie sich Ihre eigene Oase im Garten mit unseren <a href=\"/kategorie/gartenlauben-pavillons/\" title=\"Gartenlauben & Pavillons\">Gartenlauben & Pavillons</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenlauben & Pavillons sind aus robusten Materialien gefertigt und bieten Schutz vor Sonne und Regen. Stellen Sie sich Ihre persönliche Wohlfühloase im Garten zusammen und genießen Sie die Natur in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Gartenlaube oder Ihr neues Pavillon."
-          },
-          {
-            "title": "Gartenlauben & Holz-Pavillons",
-            "text": "Schaffen Sie sich Ihre eigene Oase im Garten mit unseren <a href=\"/kategorie/gartenlauben-holz-pavillons/\" title=\"Gartenlauben & Holz-Pavillons\">Gartenlauben & Holz-Pavillons</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen aus Holz. Unsere Gartenlauben & Pavillons sind robust und bieten Schutz vor Sonne und Regen. Stellen Sie sich Ihre persönliche Wohlfühloase im Garten zusammen und genießen Sie die Natur in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Gartenlaube oder Ihr neues Holz-Pavillon."
-          },
-          {
-            "title": "Balkonmöbel",
-            "text": "Machen Sie Ihren Balkon zur Wohlfühloase mit unseren hochwertigen <a href=\"/kategorie/balkonmoebel/\" title=\"Balkonmöbel\">Balkonmöbel</a>n. Ob Sofa, Sessel oder Tisch, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Balkonmöbel sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihrem neuen Outdoor-Wohnzimmer haben. Kombinieren Sie Ihre neuen Balkonmöbel mit einer bequemen Liege und genießen Sie die Sonne in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Balkonmöbel."
-          },
-          {
-            "title": "Weitere Gartenmöbel",
-            "text": "Entdecken Sie unser großes Angebot an weiteren Gartenmöbeln für Ihren Outdoorbereich. Ob Hängematte, Hollywoodschaukel oder Strandkorb, wir haben für jeden Bedarf das passende Modell. Unsere Gartenmöbel sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihren neuen Gartenmöbeln haben. Stellen Sie sich Ihre persönliche Oase im Garten zusammen und genießen Sie die Natur in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie unsere weiteren Gartenmöbel."
-          },
-          {
-            "title": "Hollywoodschaukeln",
-            "text": "Entspannen Sie sich in vollen Zügen auf unseren bequemen <a href=\"/kategorie/hollywoodschaukeln/\" title=\"Hollywoodschaukeln\">Hollywoodschaukeln</a>. Ob alleine oder zu zweit, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Hollywoodschaukeln sind aus robusten Materialien gefertigt und verfügen über bequeme Polsterungen für maximalen Komfort. Stellen Sie sich Ihre persönliche Oase im Garten zusammen und genießen Sie die Sonne in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Hollywoodschaukel."
-          },
-          {
-            "title": "Sitzkissen & Gartenstuhlauflagen",
-            "text": "Machen Sie Ihre Gartenmöbel noch bequemer mit unseren <a href=\"/kategorie/sitzkissen-gartenstuhlauflagen/\" title=\"Sitzkissen & Gartenstuhlauflagen\">Sitzkissen & Gartenstuhlauflagen</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Designs. Unsere Sitzkissen & Gartenstuhlauflagen sind aus robusten Materialien gefertigt und bieten maximalen Komfort. Kombinieren Sie Ihre neuen Sitzkissen & Auflagen mit Ihren Gartenmöbeln und genießen Sie gemütliche Abende im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Sitzkissen & Gartenstuhlauflagen."
-          },
-          {
-            "title": "Schutzhüllen",
-            "text": "Schützen Sie Ihre Gartenmöbel vor Regen, Schnee und Sonne mit unseren hochwertigen <a href=\"/kategorie/schutzhuellen/\" title=\"Schutzhüllen\">Schutzhüllen</a>. Ob für Gartentische, Lounge-Gartenmöbel oder Sonnenliegen, wir bieten Ihnen eine große Auswahl an verschiedenen Größen. Unsere Schutzhüllen sind aus robusten Materialien gefertigt und bieten optimalen Schutz für Ihre Gartenmöbel. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Schutzhülle."
-          },
-          {
-            "title": "Gartenmöbel-Sets",
-            "text": "Gestalten Sie Ihren Garten im Handumdrehen mit unseren praktischen <a href=\"/kategorie/gartenmoebel-sets/\" title=\"Gartenmöbel-Sets\">Gartenmöbel-Sets</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenmöbel-Sets sind aus robusten Materialien gefertigt und bieten optimalen Komfort. Kombinieren Sie Tische, Stühle und Loungemöbel nach Ihrem Geschmack und genießen Sie gemütliche Abende im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihr neues Gartenmöbel-Set."
-          },
-          {
-            "title": "Bierzeltgarnituren",
-            "text": "Feiern Sie gemütliche Abende mit Freunden und Familie auf unseren bequemen <a href=\"/kategorie/bierzeltgarnituren/\" title=\"Bierzeltgarnituren\">Bierzeltgarnituren</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Bierzeltgarnituren sind aus robusten Materialien gefertigt und bieten optimalen Komfort. Stellen Sie sich Ihre persönliche Partyzone im Garten zusammen und genießen Sie gemütliche Abende mit Freunden und Familie. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Bierzeltgarnitur."
-          },
-          {
-            "title": "Gartenmöbel für Kinder",
-            "text": "Machen Sie es Ihren Kindern im Garten besonders gemütlich mit unseren hochwertigen Gartenmöbeln für Kinder. Ob Tische, Stühle oder Loungemöbel, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere <a href=\"/kategorie/gartenmoebel-fuer-kinder/\" title=\"Gartenmöbel für Kinder\">Gartenmöbel für Kinder</a> sind aus robusten Materialien gefertigt und bieten optimalen Komfort für die kleinen Gäste. Stellen Sie sich Ihre persönliche Spielzone im Garten zusammen und lassen Sie Ihre Kinder die Natur in vollen Zügen genießen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Gartenmöbel für Kinder."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "mobiliar-garten.de",
+    "hostname": "https://www.mobiliar-garten.de/",
+    "email": "mobiliar-garten.de@surrealnetworks.io",
+    "organization": "mobiliar-garten.de",
+    "logoText": "Mobiliar-garten.de",
+    "title": "Garten- und Balkonmöbel",
+    "subline": "Schaffen Sie Wohnlichkeit in Ihrem Außenbereich!",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "3775889",
+        "9781618",
+        "7199425",
+        "2091064",
+        "2892172",
+        "2908366"
+    ],
+    "winnerProducts": [
+        "2914828",
+        "4154357",
+        "5926431"
+    ],
+    "featuredCategories": [
+        "Gartentische",
+        "Weitere Gartenmöbel",
+        "Hollywoodschaukeln",
+        "Gartenlauben & Holz-Pavillons",
+        "Balkonmöbel",
+        "Hollywoodschaukeln"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Gartenmöbel",
+        "featureText": "Schön, dass Sie unseren Online Shop gefunden haben! Hier sind Sie genau richtig, wenn Sie sich die gemütliche Atmosphäre in Ihren Garten oder auf Ihren Balkon holen möchten. Wir bieten Ihnen alles, um das in die Tat umzusetzen: Gartenstühle, Gartentische, Gartenliegen, Hollywoodschaukeln, Pavillons und passendes Zubehör wie Sitzkissen, Schutzhüllen uvm. Unser Online Shop überzeugt mit Produktvielfalt, Qualität, Hochwertigkeit und Langlebigkeit. Finden Sie die passenden Produkte jetzt ganz einfach online bei uns.",
+        "index": {
+            "title": "Garten- und Balkonmöbel | Hier günstig online bestellen",
+            "metaDescription": "Garten- und Balkonmöbel für jeden Geschmack. Entdecken Sie eine große Auswahl unterschiedlicher Produkte in bester Qualität und zu günstigen Preisen! ",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Mobiliar-Garten - Ihrem Online-Shop für Gartenmöbel!",
+                        "text": "Herzlich willkommen bei Mobiliar-Garten, Ihrem Online-Shop für hochwertige Gartenmöbel. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihren Garten in eine Wohlfühloase verwandeln werden. Ob Sie auf der Suche nach bequemen Sonnenliegen, praktischen Gartentischen, gemütlichen Gartenbänken oder stylischen Lounge-Gartenmöbeln sind, bei uns werden Sie fündig.Neben den Klassikern wie Gartenstühlen und Hollywoodschaukeln bieten wir Ihnen auch besondere Gartenlauben und Pavillons, die einen besonderen Akzent in Ihrem Garten setzen werden. Unsere Balkonmöbel sind die perfekte Wahl für alle, die ihren Balkon oder ihre Terrasse mit stylischen Möbeln einrichten möchten.Wir legen großen Wert auf Qualität und Funktionalität, deshalb finden Sie bei uns nur Produkte von namhaften Herstellern. Unsere Gartenmöbel-Sets und Bierzeltgarnituren sind die perfekte Wahl für alle, die auf der Suche nach einer kompletten Einrichtung für ihren Garten sind.Wir freuen uns, dass Sie uns gefunden haben und hoffen, dass Sie bei uns das finden, wonach Sie suchen. Stöbern Sie durch unser Sortiment und lassen Sie sich von unseren Produkten inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
+                    },
+                    {
+                        "title": "Gartentische",
+                        "text": "Entdecken Sie unsere hochwertigen <a href=\"/kategorie/gartentische/\" title=\"Gartentische\">Gartentische</a> für Ihren Outdoorbereich. Ob rund, rechteckig oder oval, wir haben für jeden Bedarf das passende Modell. Unsere Tische sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihrem neuen Gartentisch haben. Kombinieren Sie ihn mit unseren bequemen Gartenstühlen und genießen Sie Ihre Mahlzeiten im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihren neuen Gartentisch."
+                    },
+                    {
+                        "title": "Sonnenliegen",
+                        "text": "Erholen Sie sich in vollen Zügen auf unseren bequemen <a href=\"/kategorie/sonnenliegen/\" title=\"Sonnenliegen\">Sonnenliegen</a>. Ob alleine oder zu zweit, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Sonnenliegen sind aus robusten Materialien gefertigt und verfügen über bequeme Polsterungen für maximalen Komfort. Stellen Sie sich Ihre persönliche Oase im Garten zusammen und genießen Sie die Sonne in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Sonnenliege."
+                    },
+                    {
+                        "title": "Gartenbänke",
+                        "text": "Sitzen Sie bequem auf unseren <a href=\"/kategorie/gartenbaenke/\" title=\"Gartenbänke\">Gartenbänke</a>n und genießen Sie die Natur. Ob alleine oder zu zweit, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenbänke sind aus robusten Materialien gefertigt und verfügen über bequeme Sitzflächen für maximalen Komfort. Kombinieren Sie Ihre neue Gartenbank mit einem passenden Tisch und genießen Sie gemeinsame Mahlzeiten im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Gartenbank."
+                    },
+                    {
+                        "title": "Lounge-Gartenmöbel",
+                        "text": "Entdecken Sie unsere hochwertigen <a href=\"/kategorie/lounge-gartenmoebel/\" title=\"Lounge-Gartenmöbel\">Lounge-Gartenmöbel</a> für Ihren Outdoorbereich. Ob Sofa, Sessel oder Ottomane, wir haben für jeden Bedarf das passende Modell. Unsere Lounge-Gartenmöbel sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihrem neuen Outdoor-Wohnzimmer haben. Kombinieren Sie Ihre neuen Lounge-Möbel mit einem passenden Tisch und genießen Sie gemütliche Abende im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Lounge-Gartenmöbel."
+                    },
+                    {
+                        "title": "Gartenstühle",
+                        "text": "Sitzen Sie bequem auf unseren <a href=\"/kategorie/gartenstuehle/\" title=\"Gartenstühle\">Gartenstühle</a>n und genießen Sie die Natur. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenstühle sind aus robusten Materialien gefertigt und verfügen über bequeme Sitzflächen für maximalen Komfort. Kombinieren Sie Ihre neuen Gartenstühle mit einem passenden Tisch und genießen Sie gemeinsame Mahlzeiten im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Gartenstühle."
+                    },
+                    {
+                        "title": "Gartenlauben & Pavillons",
+                        "text": "Schaffen Sie sich Ihre eigene Oase im Garten mit unseren <a href=\"/kategorie/gartenlauben-pavillons/\" title=\"Gartenlauben & Pavillons\">Gartenlauben & Pavillons</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenlauben & Pavillons sind aus robusten Materialien gefertigt und bieten Schutz vor Sonne und Regen. Stellen Sie sich Ihre persönliche Wohlfühloase im Garten zusammen und genießen Sie die Natur in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Gartenlaube oder Ihr neues Pavillon."
+                    },
+                    {
+                        "title": "Gartenlauben & Holz-Pavillons",
+                        "text": "Schaffen Sie sich Ihre eigene Oase im Garten mit unseren <a href=\"/kategorie/gartenlauben-holz-pavillons/\" title=\"Gartenlauben & Holz-Pavillons\">Gartenlauben & Holz-Pavillons</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen aus Holz. Unsere Gartenlauben & Pavillons sind robust und bieten Schutz vor Sonne und Regen. Stellen Sie sich Ihre persönliche Wohlfühloase im Garten zusammen und genießen Sie die Natur in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Gartenlaube oder Ihr neues Holz-Pavillon."
+                    },
+                    {
+                        "title": "Balkonmöbel",
+                        "text": "Machen Sie Ihren Balkon zur Wohlfühloase mit unseren hochwertigen <a href=\"/kategorie/balkonmoebel/\" title=\"Balkonmöbel\">Balkonmöbel</a>n. Ob Sofa, Sessel oder Tisch, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Balkonmöbel sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihrem neuen Outdoor-Wohnzimmer haben. Kombinieren Sie Ihre neuen Balkonmöbel mit einer bequemen Liege und genießen Sie die Sonne in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Balkonmöbel."
+                    },
+                    {
+                        "title": "Weitere Gartenmöbel",
+                        "text": "Entdecken Sie unser großes Angebot an weiteren Gartenmöbeln für Ihren Outdoorbereich. Ob Hängematte, Hollywoodschaukel oder Strandkorb, wir haben für jeden Bedarf das passende Modell. Unsere Gartenmöbel sind aus robusten Materialien gefertigt und wetterbeständig, damit Sie lange Freude an Ihren neuen Gartenmöbeln haben. Stellen Sie sich Ihre persönliche Oase im Garten zusammen und genießen Sie die Natur in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie unsere weiteren Gartenmöbel."
+                    },
+                    {
+                        "title": "Hollywoodschaukeln",
+                        "text": "Entspannen Sie sich in vollen Zügen auf unseren bequemen <a href=\"/kategorie/hollywoodschaukeln/\" title=\"Hollywoodschaukeln\">Hollywoodschaukeln</a>. Ob alleine oder zu zweit, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Hollywoodschaukeln sind aus robusten Materialien gefertigt und verfügen über bequeme Polsterungen für maximalen Komfort. Stellen Sie sich Ihre persönliche Oase im Garten zusammen und genießen Sie die Sonne in vollen Zügen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Hollywoodschaukel."
+                    },
+                    {
+                        "title": "Sitzkissen & Gartenstuhlauflagen",
+                        "text": "Machen Sie Ihre Gartenmöbel noch bequemer mit unseren <a href=\"/kategorie/sitzkissen-gartenstuhlauflagen/\" title=\"Sitzkissen & Gartenstuhlauflagen\">Sitzkissen & Gartenstuhlauflagen</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Designs. Unsere Sitzkissen & Gartenstuhlauflagen sind aus robusten Materialien gefertigt und bieten maximalen Komfort. Kombinieren Sie Ihre neuen Sitzkissen & Auflagen mit Ihren Gartenmöbeln und genießen Sie gemütliche Abende im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Sitzkissen & Gartenstuhlauflagen."
+                    },
+                    {
+                        "title": "Schutzhüllen",
+                        "text": "Schützen Sie Ihre Gartenmöbel vor Regen, Schnee und Sonne mit unseren hochwertigen <a href=\"/kategorie/schutzhuellen/\" title=\"Schutzhüllen\">Schutzhüllen</a>. Ob für Gartentische, Lounge-Gartenmöbel oder Sonnenliegen, wir bieten Ihnen eine große Auswahl an verschiedenen Größen. Unsere Schutzhüllen sind aus robusten Materialien gefertigt und bieten optimalen Schutz für Ihre Gartenmöbel. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Schutzhülle."
+                    },
+                    {
+                        "title": "Gartenmöbel-Sets",
+                        "text": "Gestalten Sie Ihren Garten im Handumdrehen mit unseren praktischen <a href=\"/kategorie/gartenmoebel-sets/\" title=\"Gartenmöbel-Sets\">Gartenmöbel-Sets</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Gartenmöbel-Sets sind aus robusten Materialien gefertigt und bieten optimalen Komfort. Kombinieren Sie Tische, Stühle und Loungemöbel nach Ihrem Geschmack und genießen Sie gemütliche Abende im Freien. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihr neues Gartenmöbel-Set."
+                    },
+                    {
+                        "title": "Bierzeltgarnituren",
+                        "text": "Feiern Sie gemütliche Abende mit Freunden und Familie auf unseren bequemen <a href=\"/kategorie/bierzeltgarnituren/\" title=\"Bierzeltgarnituren\">Bierzeltgarnituren</a>. Ob klassisch oder modern, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere Bierzeltgarnituren sind aus robusten Materialien gefertigt und bieten optimalen Komfort. Stellen Sie sich Ihre persönliche Partyzone im Garten zusammen und genießen Sie gemütliche Abende mit Freunden und Familie. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neue Bierzeltgarnitur."
+                    },
+                    {
+                        "title": "Gartenmöbel für Kinder",
+                        "text": "Machen Sie es Ihren Kindern im Garten besonders gemütlich mit unseren hochwertigen Gartenmöbeln für Kinder. Ob Tische, Stühle oder Loungemöbel, wir bieten Ihnen eine große Auswahl an verschiedenen Modellen. Unsere <a href=\"/kategorie/gartenmoebel-fuer-kinder/\" title=\"Gartenmöbel für Kinder\">Gartenmöbel für Kinder</a> sind aus robusten Materialien gefertigt und bieten optimalen Komfort für die kleinen Gäste. Stellen Sie sich Ihre persönliche Spielzone im Garten zusammen und lassen Sie Ihre Kinder die Natur in vollen Zügen genießen. Besuchen Sie jetzt unseren Online-Shop und finden Sie Ihre neuen Gartenmöbel für Kinder."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Ihr Shop für die perfekten Garten- und Balkonmöbel",
+            "metaDescription": "Bei uns die passenden Möbel für Ihren Außenbereich ganz einfach und bequem online bestellen und direkt nach Hause liefern lassen!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Garten-und Balkonmöbel | Die besten Marken für Sie!",
+            "metaDescription": "Unser Online Shop bieten Ihnen eine tolle Auwahl an erstklassigen Markenanbietern. Acamp • Aerocover • Beo • Garden Pleasure • Madison • Sieger uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Ihr Shop für die perfekten Garten- und Balkonmöbel",
-      "metaDescription": "Bei uns die passenden Möbel für Ihren Außenbereich ganz einfach und bequem online bestellen und direkt nach Hause liefern lassen!",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Garten-und Balkonmöbel | Die besten Marken für Sie!",
-      "metaDescription": "Unser Online Shop bieten Ihnen eine tolle Auwahl an erstklassigen Markenanbietern. Acamp • Aerocover • Beo • Garden Pleasure • Madison • Sieger uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "Das perfekte Produkt: $PRODUKT vom top Anbieter $HERSTELLER. Entdecken Sie auch weitere tolle Produkte in unserer Kategorie $KATEGORIE!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "2914828",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "Das perfekte Produkt: $PRODUKT vom top Anbieter $HERSTELLER. Entdecken Sie auch weitere tolle Produkte in unserer Kategorie $KATEGORIE!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Merxx Gartenspültisch mit Edelstahlspüle und Sideboard Eukalyptus",
-              "text": "<p class=\"justify\">Der Merxx Gartenspültisch mit Edelstahlspüle und Sideboard Eukalyptus (SKU: 2914828) präsentiert sich als eine ideale Ergänzung für Ihren Garten und Ihre Freizeitaktivitäten. Dieses hochwertige Gartenmöbel-Set aus der Kategorie Gartenmöbel-Sets verleiht Ihrem Außenbereich sowohl Funktionalität als auch Stil.</p><p class=\"justify\">Der Gartenspültisch besteht aus geöltem, FSC-zertifiziertem Eukalyptus-Holz, das für seine Stabilität und Langlebigkeit bekannt ist. Die Maße des Spültischs betragen 91 cm x 90 cm x 46 cm, während das Sideboard mit Maßen von 91 cm x 56 cm x 46 cm aufwartet. Dank des hochwertigen Edelstahlspüle ist dieser Gartenspültisch äußerst langlebig und beständig gegen Korrosion und Kratzer. Der Wasserhahn kann mit einem Gartenschlauch verbunden werden, und die Spüle ist mit einem Abflussschlauch ausgestattet.</p><p class=\"justify\">Das praktische Sideboard ergänzt den Spültisch perfekt, kann aber auch einzeln als Dekoelement oder Ablage genutzt werden. Es verfügt über zwei praktische Boxen im Regal, die dazu dienen, Gartenwerkzeuge und -zubehör ordentlich und griffbereit aufzubewahren. Die robuste Edelstahlplatte auf dem Sideboard bietet zusätzliche Ablagefläche für Töpfe, Schüsseln und Küchenutensilien.</p><p class=\"justify\">Der Merxx Gartenspültisch mit Edelstahlspüle und Sideboard Eukalyptus erfreut sich einer hohen Beliebtheit unter den Kunden, was sich in einer durchschnittlichen Bewertung von 5 Sternen bei 217 Rezensionen widerspiegelt. Dies spricht für die Qualität und Funktionalität dieses Gartenmöbel Sets und macht es zu einer ausgezeichneten Wahl für Ihren Garten und Ihre Freizeitgestaltung.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4154357",
-        "seo": {
-          "texts": [
-            {
-              "title": "Gartenbank Saket 2-Sitzer Schwarz 96 x 146 x 53 cm von Garden Pleasure",
-              "text": "<p class=\"justify\">Die Gartenbank Saket 2-Sitzer Schwarz 96 x 146 x 53 cm von Garden Pleasure ist die perfekte Ergänzung für jeden Garten oder Außenbereich. Das elegante Design und die hochwertige Verarbeitung machen diese Gartenbank zu einem absoluten Hingucker. Die Bank ist aus robustem Metall gefertigt, was sie besonders stabil und langlebig macht.</p><p class=\"justify\">Eine der besonderen Eigenschaften dieser Gartenbank ist die Sitzfläche mit integriertem, hochklappbarem Tisch. Diese Funktion bietet Ihnen zusätzlichen Komfort und praktischen Nutzen, indem Sie bei Bedarf den Tisch einfach hochklappen und somit eine Ablagefläche für Getränke, Snacks oder Bücher haben. Die Sitzfläche der Bank bietet mit einer Breite von 141 cm ausreichend Platz für bis zu zwei Personen.</p><p class=\"justify\">Die Zierornamente und die formschönen Armlehnen verleihen der Gartenbank Saket einen stilvollen Charme, der sich perfekt in jedes Gartenambiente einfügt. Die Maße der Sitzfläche betragen 141 x 43 cm, was für einen bequemen Sitzkomfort sorgt. Diese Gartenbank kombiniert Funktionalität und Ästhetik und ist daher die ideale Wahl für alle, die ihren Garten oder ihre Terrasse stilvoll gestalten möchten.</p><p class=\"justify\">Mit der Garden Pleasure-Produktserie wurde darauf geachtet, dass ansprechendes Äußeres und Qualität Hand in Hand gehen. So müssen Sie sich keine Sorgen um Wettereinflüsse oder Abnutzung machen, da das robuste Material und die hochwertige Verarbeitung dafür sorgen, dass die Gartenbank Saket auch nach vielen Jahren im Außenbereich attraktiv aussieht und Ihnen viel Freude bereitet.</p><p class=\"justify\">Lassen Sie sich von der Gartenbank Saket 2-Sitzer Schwarz 96 x 146 x 53 cm von Garden Pleasure überzeugen und bringen Sie Stil und Komfort in Ihren Garten oder auf Ihre Terrasse.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5926431",
-        "seo": {
-          "texts": [
-            {
-              "title": "Sonnenliege Tanguro Textil-Bespannung Grau",
-              "text": "<p class=\"justify\">Entspannen Sie sich diesen Sommer mit der Sonstige Sonnenliege Tanguro mit Textil-Bespannung in Grau. Diese stilvolle und bequeme Gartenliege ist ideal für den Einsatz im Garten, auf der Terrasse oder dem Balkon, um ein Sonnenbad zu nehmen oder einfach im Freien zu entspannen. Die Liege besticht durch ihr klassisches Design in einer modernen Trendfarbe, bei dem Gestell und Bespannung perfekt aufeinander abgestimmt sind, und sorgt für ein angenehmes Liegegefühl ohne störende Kanten.</p><p class=\"justify\">Das stabile und leichte Gestell der Sonnenliege Tanguro besteht aus robustem Rundstahl, der durch Langlebigkeit und pflegeleichte Oberflächen überzeugt. Die textile Bespannung, die aus 76% Polyvinylchlorid und 24% Polyester besteht, bietet elastische und strapazierfähige Eigenschaften sowie hohen Liegekomfort. Diese Kombination aus Materialien gewährleistet nicht nur Haltbarkeit, sondern auch eine einfache Reinigung und Wartung.</p><p class=\"justify\">Die Tanguro Sonnenliege verfügt über zwei unterschiedliche Sitz- oder Liegepositionen, sodass Sie Ihre bevorzugte Position für maximale Entspannung wählen können. Dank des integrierten Gelenkstücks und der Klappfunktion lässt sich die Liege bei Nichtgebrauch oder zum Transport einfach zusammenlegen und im Winter platzsparend verstauen.</p><p class=\"justify\">Mit ihren Maßen von 57 cm bis 96,5 cm x 61 cm x 140 cm (H x B x T) bietet die Sonnenliege Tanguro eine großzügige Sitz- und Liegefläche und ist der perfekte Begleiter für entspannte Tage im Freien. Diese Gartenliege ist nicht nur praktisch und bequem, sondern auch ein stilvolles Mobiliar, das Ihren Außenbereich verschönert.</p><p class=\"justify\">Genießen Sie die Sonne und entspannen Sie in Komfort und Stil mit der Sonnenliege Tanguro mit Textil-Bespannung in Grau. Schaffen Sie sich Ihre eigene Oase der Ruhe und Entspannung im Freien mit diesem ansprechenden Gartenmöbelstück.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE: für Ihren Außenbereich das passende Produkt!",
-    "defaultMetaDescription": "Finde Sie passendes Mobiliar und Zubehör z.B. in unserer Kategorie $KATEGORIE! Außenmöbel für jeden Geschmack und in allen Preisklassen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "2914828",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Merxx Gartenspültisch mit Edelstahlspüle und Sideboard Eukalyptus",
+                            "text": "<p class=\"justify\">Der Merxx Gartenspültisch mit Edelstahlspüle und Sideboard Eukalyptus (SKU: 2914828) präsentiert sich als eine ideale Ergänzung für Ihren Garten und Ihre Freizeitaktivitäten. Dieses hochwertige Gartenmöbel-Set aus der Kategorie Gartenmöbel-Sets verleiht Ihrem Außenbereich sowohl Funktionalität als auch Stil.</p><p class=\"justify\">Der Gartenspültisch besteht aus geöltem, FSC-zertifiziertem Eukalyptus-Holz, das für seine Stabilität und Langlebigkeit bekannt ist. Die Maße des Spültischs betragen 91 cm x 90 cm x 46 cm, während das Sideboard mit Maßen von 91 cm x 56 cm x 46 cm aufwartet. Dank des hochwertigen Edelstahlspüle ist dieser Gartenspültisch äußerst langlebig und beständig gegen Korrosion und Kratzer. Der Wasserhahn kann mit einem Gartenschlauch verbunden werden, und die Spüle ist mit einem Abflussschlauch ausgestattet.</p><p class=\"justify\">Das praktische Sideboard ergänzt den Spültisch perfekt, kann aber auch einzeln als Dekoelement oder Ablage genutzt werden. Es verfügt über zwei praktische Boxen im Regal, die dazu dienen, Gartenwerkzeuge und -zubehör ordentlich und griffbereit aufzubewahren. Die robuste Edelstahlplatte auf dem Sideboard bietet zusätzliche Ablagefläche für Töpfe, Schüsseln und Küchenutensilien.</p><p class=\"justify\">Der Merxx Gartenspültisch mit Edelstahlspüle und Sideboard Eukalyptus erfreut sich einer hohen Beliebtheit unter den Kunden, was sich in einer durchschnittlichen Bewertung von 5 Sternen bei 217 Rezensionen widerspiegelt. Dies spricht für die Qualität und Funktionalität dieses Gartenmöbel Sets und macht es zu einer ausgezeichneten Wahl für Ihren Garten und Ihre Freizeitgestaltung.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4154357",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Gartenbank Saket 2-Sitzer Schwarz 96 x 146 x 53 cm von Garden Pleasure",
+                            "text": "<p class=\"justify\">Die Gartenbank Saket 2-Sitzer Schwarz 96 x 146 x 53 cm von Garden Pleasure ist die perfekte Ergänzung für jeden Garten oder Außenbereich. Das elegante Design und die hochwertige Verarbeitung machen diese Gartenbank zu einem absoluten Hingucker. Die Bank ist aus robustem Metall gefertigt, was sie besonders stabil und langlebig macht.</p><p class=\"justify\">Eine der besonderen Eigenschaften dieser Gartenbank ist die Sitzfläche mit integriertem, hochklappbarem Tisch. Diese Funktion bietet Ihnen zusätzlichen Komfort und praktischen Nutzen, indem Sie bei Bedarf den Tisch einfach hochklappen und somit eine Ablagefläche für Getränke, Snacks oder Bücher haben. Die Sitzfläche der Bank bietet mit einer Breite von 141 cm ausreichend Platz für bis zu zwei Personen.</p><p class=\"justify\">Die Zierornamente und die formschönen Armlehnen verleihen der Gartenbank Saket einen stilvollen Charme, der sich perfekt in jedes Gartenambiente einfügt. Die Maße der Sitzfläche betragen 141 x 43 cm, was für einen bequemen Sitzkomfort sorgt. Diese Gartenbank kombiniert Funktionalität und Ästhetik und ist daher die ideale Wahl für alle, die ihren Garten oder ihre Terrasse stilvoll gestalten möchten.</p><p class=\"justify\">Mit der Garden Pleasure-Produktserie wurde darauf geachtet, dass ansprechendes Äußeres und Qualität Hand in Hand gehen. So müssen Sie sich keine Sorgen um Wettereinflüsse oder Abnutzung machen, da das robuste Material und die hochwertige Verarbeitung dafür sorgen, dass die Gartenbank Saket auch nach vielen Jahren im Außenbereich attraktiv aussieht und Ihnen viel Freude bereitet.</p><p class=\"justify\">Lassen Sie sich von der Gartenbank Saket 2-Sitzer Schwarz 96 x 146 x 53 cm von Garden Pleasure überzeugen und bringen Sie Stil und Komfort in Ihren Garten oder auf Ihre Terrasse.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5926431",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sonnenliege Tanguro Textil-Bespannung Grau",
+                            "text": "<p class=\"justify\">Entspannen Sie sich diesen Sommer mit der Sonstige Sonnenliege Tanguro mit Textil-Bespannung in Grau. Diese stilvolle und bequeme Gartenliege ist ideal für den Einsatz im Garten, auf der Terrasse oder dem Balkon, um ein Sonnenbad zu nehmen oder einfach im Freien zu entspannen. Die Liege besticht durch ihr klassisches Design in einer modernen Trendfarbe, bei dem Gestell und Bespannung perfekt aufeinander abgestimmt sind, und sorgt für ein angenehmes Liegegefühl ohne störende Kanten.</p><p class=\"justify\">Das stabile und leichte Gestell der Sonnenliege Tanguro besteht aus robustem Rundstahl, der durch Langlebigkeit und pflegeleichte Oberflächen überzeugt. Die textile Bespannung, die aus 76% Polyvinylchlorid und 24% Polyester besteht, bietet elastische und strapazierfähige Eigenschaften sowie hohen Liegekomfort. Diese Kombination aus Materialien gewährleistet nicht nur Haltbarkeit, sondern auch eine einfache Reinigung und Wartung.</p><p class=\"justify\">Die Tanguro Sonnenliege verfügt über zwei unterschiedliche Sitz- oder Liegepositionen, sodass Sie Ihre bevorzugte Position für maximale Entspannung wählen können. Dank des integrierten Gelenkstücks und der Klappfunktion lässt sich die Liege bei Nichtgebrauch oder zum Transport einfach zusammenlegen und im Winter platzsparend verstauen.</p><p class=\"justify\">Mit ihren Maßen von 57 cm bis 96,5 cm x 61 cm x 140 cm (H x B x T) bietet die Sonnenliege Tanguro eine großzügige Sitz- und Liegefläche und ist der perfekte Begleiter für entspannte Tage im Freien. Diese Gartenliege ist nicht nur praktisch und bequem, sondern auch ein stilvolles Mobiliar, das Ihren Außenbereich verschönert.</p><p class=\"justify\">Genießen Sie die Sonne und entspannen Sie in Komfort und Stil mit der Sonnenliege Tanguro mit Textil-Bespannung in Grau. Schaffen Sie sich Ihre eigene Oase der Ruhe und Entspannung im Freien mit diesem ansprechenden Gartenmöbelstück.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE: für Ihren Außenbereich das passende Produkt!",
+        "defaultMetaDescription": "Finde Sie passendes Mobiliar und Zubehör z.B. in unserer Kategorie $KATEGORIE! Außenmöbel für jeden Geschmack und in allen Preisklassen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Qualität online kaufen",
+        "defaultMetaDescription": "Garten- und Balkonmöbel & Zubehör z.B. von $HERSTELLER : Hier finden Sie alles für Ihren Außenbereich. Unsere Marken überzeugen allesamt mit Top Qualität!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Gartenmöbel",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Gartenmöbel Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Gartenmöbel Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Qualität online kaufen",
-    "defaultMetaDescription": "Garten- und Balkonmöbel & Zubehör z.B. von $HERSTELLER : Hier finden Sie alles für Ihren Außenbereich. Unsere Marken überzeugen allesamt mit Top Qualität!",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Gartenmöbel",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Gartenmöbel Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Gartenmöbel Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
